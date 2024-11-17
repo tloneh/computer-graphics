@@ -1,0 +1,2 @@
+^C:\USERS\TLONE\DESKTOP\CGTEMPLATE\DEBUG\MOC_PREDEFS.H.CBT
+cl -BxD:\anaconda3\Library\bin\qmake.exe -nologo -Zc:wchar_t -FS -Zc:rvalueCast -Zc:inline -Zc:strictStrings -Zc:throwingNew -Zc:referenceBinding -Zc:__cplusplus -Zi -MDd -E D:\anaconda3\Library\mkspecs\features\data\dummy.cpp 2>NUL >debug\\moc_predefs.h

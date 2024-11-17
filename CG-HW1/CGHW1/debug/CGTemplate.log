@@ -1,0 +1,6 @@
+﻿   Qt/MSBuild: 3.3.0.13
+  Reading Qt configuration (D:/QT5.13.0/5.13.0/msvc2017/bin/qmake)
+   Qt: 5.13.0
+  myglwidget.cpp
+C:\Users\tlone\Desktop\CGTemplate\myglwidget.cpp(263,11): warning C4189: “thickness”: 局部变量已初始化但不引用
+  CGTemplate.vcxproj -> C:\Users\tlone\Desktop\CGTemplate\debug\CGTemplate.exe
